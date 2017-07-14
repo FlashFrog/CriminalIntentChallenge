@@ -1,1 +1,3 @@
-# CriminalIntentChallenge
+此为安卓权威编程10.5小节的挑战练习
+
+实现高效的RecyclerView刷新
